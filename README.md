@@ -59,11 +59,13 @@ Example file contents:
 This represents the moves made in the order shown below:
 
 ```
- 1 | 2 | 3
+X is the winner!
+
+ O | O | 3
 -----------
  4 | X | 6
 -----------
- O | X | O
+ X | X | X
 ```
 
 ## Gameplay
